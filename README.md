@@ -99,8 +99,8 @@ The GUI communicates with the ESP32 using serial commands:
 
 ## 📄 Documentation
 
-- [AS1170 ESP32 Guide](docs/AS1170%20ESP32.docx)
-- [AS1170 GUI User Guide](docs/AS1170%20GUI%20UserGuide.docx)
+- [AS1170 ESP32 Guide](docs/AS1170%20ESP32.pdf)
+- [AS1170 GUI User Guide](docs/AS1170%20GUI%20UserGuide.pdf)
 
 ---
 
